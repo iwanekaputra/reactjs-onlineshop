@@ -1,4 +1,4 @@
-<h1 align="center">Selamat datang di repository Perpustakaan! 👋🏻</h1>
+<h1 align="center">Selamat datang di repository reacjjs-onlineshop! 👋🏻</h1>
 
 <img src="https://github.com/iwanekaputra/reactjs-onlineshop/blob/master/onlineshop.png">
 
