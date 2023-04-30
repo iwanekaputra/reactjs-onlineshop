@@ -1,6 +1,6 @@
 <h1 align="center">Selamat datang di repository Perpustakaan! 👋🏻</h1>
 
-![wanime-preview](https://github.com/iwanekaputra/reactjs-onlineshop/blob/main/onlineshop.png?raw=true)
+<img src="https://github.com/iwanekaputra/reactjs-onlineshop/blob/master/onlineshop.png">
 
 <p></p>
 
